@@ -22,7 +22,7 @@
 
 ### 🖼️ Screenshot of AYKA in Action
 
-![Chat Example](output/Response_2.png)
+![Chat Example](output/Response_2.jpg)
 
 ## 📦 Installation
 
