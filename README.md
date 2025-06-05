@@ -6,7 +6,7 @@
 
 ## 🚀 Features
 
-- 🔧 **Tool Calling**: Built-in tools for booking, checking flight status, cancellations, and rescheduling.
+- 🔧 **Tool Calling**: Built-in with LangChain, Langgraph , Open AI LLM , Fast API to access agent
 - 💾 **Memory Saver**: Retains context during the conversation using in-memory checkpointing.
 - 🧠 **Custom Prompts**: System message ensures AYKA behaves as an airline assistant.
 - 🧱 **Modular Class Design**: Easily importable and reusable in other Python files.
