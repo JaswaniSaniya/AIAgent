@@ -20,6 +20,9 @@
 ├── main.py # Example script to use the agent
 ├── requirements.txt # Python dependencies
 
+### 🖼️ Screenshot of AYKA in Action
+
+![Chat Example](output/Response_2.png)
 
 ## 📦 Installation
 
@@ -28,3 +31,5 @@
 ```bash
 git clone https://github.com/your-username/ayka-airline-ai.git
 cd ayka-airline-ai
+
+
