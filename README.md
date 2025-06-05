@@ -21,6 +21,11 @@
 ├── requirements.txt # Python dependencies
 
 
+### 🖼️ AI Agent expected response
+
+![Chat Example](output/Response_2.jpg)
+
+![Chat Example](output/Response_3.jpg)
 
 ## 📦 Installation
 
@@ -31,10 +36,5 @@ git clone https://github.com/your-username/ayka-airline-ai.git
 cd ayka-airline-ai
 
 
-### 🖼️ AI Agent expected response
-
-![Chat Example](output/Response_2.jpg)
-
-![Chat Example](output/Response_3.jpg)
 
 
